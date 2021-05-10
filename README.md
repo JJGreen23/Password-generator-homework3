@@ -1,0 +1,2 @@
+For this assignment I was tasked to use mostly Java script in order to finish a password generator. 
+I was tasked to have a few pop ups to ask questions to the user about what their requirements are for their password.
